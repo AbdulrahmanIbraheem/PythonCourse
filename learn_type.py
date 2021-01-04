@@ -4,3 +4,9 @@
 num = 12
 
 print(type(num))
+
+num1 = 12.23
+print(num1)
+
+var = "Python Course"
+print(type(var))
