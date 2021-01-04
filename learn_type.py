@@ -39,3 +39,6 @@ print(type( boolean2) )
 print(type( string) )
 print()
 print("*" * 40)
+
+
+
