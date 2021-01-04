@@ -24,7 +24,7 @@ print()
 print('*' * 40)
 print()
 
-# assignment operators
+# compartion  operators
 
 # == , =!, >, <, >=, <=,
 
@@ -38,6 +38,53 @@ print(6 >= 6)# True
 print(6 <= 6) # True
 
 print('*' * 40)
+print() 
+
+# assignment operators
+
+num = 100
+
+num += 10 # num = num + 10 => 110
+print(num)
+
+num -= 20
+print(num) # 110 - 20 => 90
+
+num *= 2
+print(num) # 90 * 2 => 180
+
+num  /= 2
+print(num) # 180 / 2 => 90.0
+
+num //= 2
+print(num) # 90 // 2 => 45
+
+num **= 2
+print(num) # 45 ** 2 => 2025.0
+
+num %= 2
+print(num)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
