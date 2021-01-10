@@ -63,8 +63,7 @@ num **= 2
 print(num) # 45 ** 2 => 2025.0
 
 num %= 2
-print(num)
-
+print(num) # 2025.0 % 2 => 1.0
 
 
 
